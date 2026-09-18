@@ -1,4 +1,4 @@
-# Cybersecurity Data Analysis
+# Cybersecurity Network Traffic Analysis
 
 Exploratory Data Analysis (EDA) project using network traffic data to identify traffic patterns, attack distributions, statistical characteristics, outliers, and relationships between network features.
 
